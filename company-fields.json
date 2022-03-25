@@ -1,0 +1,69 @@
+{
+	"_id": {
+		"$oid": "623c695cf1c596001a26fc1c"
+	},
+	"registerState": {
+		"name": "England"
+	},
+	"registerCity": {
+		"name": "Manchester"
+	},
+	"principalPlaceState": {
+		"name": "England"
+	},
+	"principalPlaceCity": {
+		"name": "Manchester"
+	},
+	"totalMember": {
+		"$numberInt": "1"
+	},
+	"arrivalDueDay": {
+		"$numberInt": "5"
+	},
+	"arrivalDueHour": {
+		"$numberInt": "5"
+	},
+	"paymentTerm": {
+		"$numberInt": "10"
+	},
+	"standardPaymentTerm": "Banking account",
+	"isSamePrincipalPlace": true,
+	"description": "Emel's company for fresh fruit",
+	"speciality": "FRUIT",
+	"companyForm": "Limited Company",
+	"companyTypeOther": null,
+	"companyType": "WHOLESALER",
+	"companyName": "Emel's Company",
+	"registerPostCode": "M1 1AD",
+	"registerAddress": "UK, England, Manchester",
+	"principalPlaceAddress": "UK, England, Manchester",
+	"principalPlacePostCode": "M1 1AD",
+	"registerCountry": {
+		"name": "United Kingdom"
+	},
+	"principalPlaceCountry": {
+		"name": "United Kingdom"
+	},
+	"code": "ECOCS",
+	"slug": "emels-company-ECOCS",
+	"status": "APPROVED",
+	"user": {
+		"$oid": "623c685f593dd7001b320f4f"
+	},
+	"createdAt": {
+		"$date": {
+			"$numberLong": "1648126300716"
+		}
+	},
+	"updatedAt": {
+		"$date": {
+			"$numberLong": "1648126826758"
+		}
+	},
+	"location": [
+		"-2.2448663","53.4837836"
+	],
+	"updatedBy": {
+		"$oid": "623c685f593dd7001b320f4f"
+	}
+}
